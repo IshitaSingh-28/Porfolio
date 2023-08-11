@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.cc5ec1b7.css",
+    "main.js": "/Porfolio/static/js/main.8a726430.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Porfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Porfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/Porfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Porfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Porfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Porfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Porfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Porfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Porfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/Porfolio/static/media/logo.b3d9a93bb34a9c830064.png",
+    "static/media/chatify.png": "/Porfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Ishita's Resume.pdf": "/Porfolio/static/media/Ishita's Resume.96c92fd0ede7317f92c7.pdf",
+    "static/media/home-bg.jpg": "/Porfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Porfolio/static/media/pre.ed92f4cfc26fe678368e.svg",
+    "index.html": "/Porfolio/index.html",
+    "main.cc5ec1b7.css.map": "/Porfolio/static/css/main.cc5ec1b7.css.map",
+    "main.8a726430.js.map": "/Porfolio/static/js/main.8a726430.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Porfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Porfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc5ec1b7.css",
+    "static/js/main.8a726430.js"
+  ]
+}
