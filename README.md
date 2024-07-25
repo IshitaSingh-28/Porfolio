@@ -35,6 +35,3 @@ This portfolio website showcases my skills, projects, and background in a struct
 - GitHub: [ishitasingh-28](https://github.com/ishitasingh-28)
 - Email: [ishitaasingh2810@gmail.com](ishitaasingh2810@gmail.com)
 
----
-
-Replace `[Your Email Address]` with your actual contact email. This README provides a basic structure. Feel free to add more sections or details as per your specific website features and preferences.
